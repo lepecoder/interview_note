@@ -1,0 +1,1 @@
+Dijkstra算法就是优先队列的BFS。
